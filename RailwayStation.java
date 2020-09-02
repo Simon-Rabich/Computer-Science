@@ -1,7 +1,7 @@
 
 /**
  * The representation is made by the array who contain the train board.
- * @author (Eden siton)
+ * @author (Simon rabich)
  */
 public class RailwayStation
 {
